@@ -1,5 +1,6 @@
-COMP 3104
+Course outline - https://learn-ca-central-1-prod-fleet01-xythos.s3.ca-central-1.amazonaws.com/5ea890ce0c586/10931064?response-cache-control=private%2C%20max-age%3D21600&response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27COMP%25203104-2020-DevOps-CSI.pdf&response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20201013T210000Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Credential=AKIAZH6WM4PLXDUOTQ63%2F20201013%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Signature=3c0eaffdcee09b5dd2a2f6319db609003ae182c0609914d8e7c5eaaf4b11ad2d
 
+COMP 3104
  
 Why this course matters
 
