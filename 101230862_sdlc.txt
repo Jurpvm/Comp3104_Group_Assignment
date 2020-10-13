@@ -1,3 +1,5 @@
+This information is retrieved from https://bb-gbc.blackboard.com/webapps/blackboard/content/listContent.jsp?course_id=_193274_1&content_id=_5532325_1
+
 Lecture  1  - Why DevOps (Developer Operations) Matters
 
 
