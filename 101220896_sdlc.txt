@@ -13,4 +13,4 @@ Mayzar highlighted that these potential challenges are likely to be imminent in 
 
 On an individual basis, Singaraju explained that Agile has many advantages over the conventional waterfall model but does come with some certain challenges, especially for larger teams. “Agile has various advantages [including] user-focused development, increased team collaboration, fast product delivery, and flexibility. However, it does come with some challenges such as uncertainty of end goal, and making it work right for large teams.”
 
-As for DevOps, Singaraju commented on how it can accelerate product innovation, but if not executed properly it can cause a burden. “DevOps [enables] better quality, performance, and accelerated product innovation. However if not done right, DevOps can become an additional burden on teams and lots of wasted investments on tools and infrastructure.”
+As for DevOps, Singaraju commented on how it can accelerate product innovation, but if not executed properly it can cause a burden. “DevOps [enables] better quality, performance, and accelerated product innovation.
