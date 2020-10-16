@@ -1,5 +1,4 @@
 # Comp3104_Group_Assignment
-
 ## Group
 Our group name and number is Group 6.
 It consists of the following members:
@@ -31,3 +30,4 @@ For this project we need to do the following tasks:
 * [10123086_devops](10123086_devops.txt)
 * [101220896_devops](101220896_devops.txt)
   * These file contains details about important of learning DevOps engineer in software development cycle
+
