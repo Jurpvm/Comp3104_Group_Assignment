@@ -6,6 +6,7 @@ It consists of the following members:
 * Anass 
 * Alex
 * Vitalii
+* HyunJun-yoon
 
 ## Tasks
 For this project we need to do the following tasks:
