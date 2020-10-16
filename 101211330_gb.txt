@@ -1,4 +1,7 @@
-Find out more about George brown here.https://www.georgebrown.ca/about
+George Brown College provides a blend of theory and hands-on experience. 
+We prioritize real-world learning and provide students with opportunities to work alongside industry professionals in applied research and field education opportunities. And our industry partnerships mean students get the latest trends and tech they can expect in the field.  
+
+George Brown has an 84 per cent graduate employment rate, six months after graduation.* 
 
 How can George Brown College help me reach my career goals?
 Balancing work, home and education is easy at George Brown with full-time, part-time and continuing education programs to suit your availability and allowing you to work towards a diploma, degree or certificate. 
@@ -15,5 +18,9 @@ There are so many more reasons to choose George Brown College that you’ll find
 Where can I find more information about applying?
 In our Admissions section, you’ll find everything you need to know from How to Apply to Financial Aid, as well as contact information in case you can’t find what you’re looking for online.
 
+<<<<<<< HEAD:101075604_gb.txt
 George Brown College campuses and facilities are located on the traditional territory of the Mississaugas of the New Credit First Nation and other Indigenous peoples who have lived on this land.
 edit
+=======
+George Brown College campuses and facilities are located on the traditional territory of the Mississaugas of the New Credit First Nation and other Indigenous peoples who have lived on this land.
+>>>>>>> 1de541c2f343b9f95c92d00d8318f998da27ebd0:101211330_gb.txt
