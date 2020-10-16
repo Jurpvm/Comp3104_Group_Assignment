@@ -59,7 +59,3 @@ Top pick – The DevOps Handbook, by Gene Kim, Patrick Debois, John Willis, John
 The Phoenix Project, Gene Kim, George Spafford, Kevin Behr – In novel format inspired by the seminal Lean work The Goal, this is a narrative of a DevOps implementation in a troubled software company.
 Web Operations, various – An O’Reilly book collecting a series of essays on Web operations that are really thoughts from a lot of the key DevOps pioneers.
 Continuous Delivery, Jez Humble and David Farley – While CI/CD isn’t the sum total of DevOps like some people would have it, it’s certainly a major area of innovation and this is the definitive work on it.
-A Practical Approach to Large-Scale Agile Development, Gary Gruver – For those who think DevOps is just for startups or just for Web software, this is the tale of how the HP LaserJet firmware division transitioned to an agile/CI/DevOps structure.
-The Practice of Cloud System Administration, Tom Limoncelli, Strata Chalup, Christina Hogan – A textbook style guide from the operations side, with loads of great new-style systems guidance and a lot of explicit DevOps content.
-Release It!, Michael Nygard – There needs to be more books like this, it explains common systems failure patterns and success patterns – I think of it as the Gang of Four Design Patterns book for systems.
-Lean Software Development, Mary and Tom Poppendieck – Lean is being increasingly adopted within the DevOps community, but starting from Deming and TPS is somewhat intimidating.  This book is the seminal work on Lean in software.
