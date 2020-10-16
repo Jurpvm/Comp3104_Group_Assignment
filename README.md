@@ -13,7 +13,7 @@ For this project we need to do the following tasks:
 - [x] Create a git repository name COMP3104_Group_Assignment
 - [x] Add other group member as collaborator and assign required permission to work on the repository
 - [x] All member will create their own branch
-- [ ] All group member will make atleast 10 commits and create 3 files on their branch having appropriate commit message and merge all branch changes to master branch
+- [x] All group member will make atleast 10 commits and create 3 files on their branch having appropriate commit message and merge all branch changes to master branch
 - [x] Update your local branch from remote git repository and resolve any merge conflict
 - [x] Group members should add and update Readme.md file to maintain their repository details
 
