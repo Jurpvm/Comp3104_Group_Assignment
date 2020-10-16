@@ -58,3 +58,4 @@ Whether you’re a front-end developer working with a QA (Quality Assurance) ana
 Along with some of the tools mentioned, we’ll also be leveraging and exploring some of the underlying protocols which make working with servers a cinch. This will remove some of the magic from the tools we use. Along with some lower-level knowledge, our intention is to spawn new ideas and explore creative solutions to common problems.
 
 This course is not designed as a means for students to earn credits or boast their GPA. To successfully complete this course, you must attend every lab. If you feel like lectures aren’t your thing or there is something I can do better, shoot me an email and please let me know. I respond to all emails and consider all feedback offered. If you can’t make it to a lab, also please fire off an email to inform me of your absence. Not doing so will result in a lower mark for a class that is set up for your success! 
+edit
