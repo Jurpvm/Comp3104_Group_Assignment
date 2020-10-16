@@ -21,10 +21,13 @@ For this project we need to do the following tasks:
 ## Files
 * [101075604_gb](101075604_gb.txt)
 * [101230862_gb](101230862_gb.txt)
+* [101220896_gb](101220896_gb.txt)
   * These file contains information about George Brown college
 * [101075604_devops](101075604_devops.txt)
 * [10123086_devops](10123086_devops.txt)
+* [101220896_devops](101220896_devops.txt)
   * These file contains information about COMP 3104 DevOps course
 * [101075604_devops](101075604_devops.txt)
 * [10123086_devops](10123086_devops.txt)
+* [101220896_devops](101220896_devops.txt)
   * These file contains details about important of learning DevOps engineer in software development cycle
