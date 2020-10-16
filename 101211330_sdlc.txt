@@ -1,0 +1,46 @@
+Why Should You Care About Learning DevOps
+Before you start learning DevOps, you should understand how you can benefit your company through this training:
+
+DevOps provides a competitive advantage to organizations—by enabling them to improve and create products faster. 
+Collaboration helps operations and development to reduce implementation failures, have shorter development cycles, and improve internal communication.
+DevOps enable teams to follow the entire deployment cycle—from writing and testing code to integration, containerization, and delivery. 
+DevOps enables you to see the full picture.
+DevOps is a unified approach to problem solving and company culture—learning the communication skills and agile methods of DevOps can help developers communicate better with non-dev team members like designers or marketers. 
+These skills can make you a more desirable employee.
+DevOps certification—a DevOps certification can help you stay relevant in an ever-evolving industry. 
+You can get more work done and provide better value to your company with DevOps capabilities.
+
+What Does a DevOps Engineer Do?
+In general, a DevOps engineer should have skills in both software development and operations. Although DevOps workflows may change from company to company, a DevOps engineer usually has four main responsibilities:
+
+Building and improving the CI/CD pipeline—planning and implementing the safest and fastest way to get code from the developer to production. The objective is to make the deployments seamless for developers and customers by automating the process.
+Managing the cloud infrastructure—cloud infrastructure is based on shared pools of configurable resources and services. DevOps engineers are responsible for quickly and flexibly provisioning these resources. The infrastructure of a large company usually includes Virtual Private Cloud (VPC), load balancers, servers, and security components.
+Configuration management—DevOps engineers work with tools like Chef and Puppet to define what software and abilities you want on each type of server.
+Monitoring—reduces the number of bugs and improves reliability. DevOps engineers are responsible for monitoring. For instance, monitoring is critical when practicing continuous deployment, since each deployment can cause issues in production.
+Must Have Skills for DevOps Engineers
+A DevOps engineer is constantly challenged by complex problems, new technology, or dynamic roles. A person in this position has to be intelligent, curious, and motivated. Here are the top skills DevOps engineers need to succeed on the job, according to industry experts.
+
+Programming skills
+
+Learning programming languages like Java, Python, or Ruby can put you in a better position than an IT person or network engineer. Programming skills enable you to debug pieces of code when needed, save time and resources for developers by resolving deployment and build errors on your own. DevOps engineers have a huge responsibility of running things smoothly, since processes like application installation, server trigger, validation, configuration are all automated. Programming skills can also be useful for building tools that help automate different processes.
+
+Automation tools
+
+DevOps pipeline processes leverage automation to increase the effectiveness of Continuous Integration (CI), and Continuous Deployment (CD). Every repetitive task has to be automated, from writing code to building, testing, and deployment. Post-production testing and monitoring are also automated, which enables faster continuous integration results. The most popular DevOps automation tools are Puppet, Jenkins, and Kubernetes.
+
+Testing
+
+Development and testing move hand in hand. Testers test every aspect of the product, including operations, functionality, security, performance, and analysis of data and logs. Testing is performed at every development phase, from project planning, writing code, integration, building, deploying, releasing, and operations. DevOps engineers can use many different tools to perform continuous testing and integration. Available tools include Jenkins, Travis CI, CircleCI, and many more.
+
+Cloud and virtualization
+
+Virtualization is the process of running a virtual instance of a computer separately from the actual hardware. Virtualization enables you to split large systems into smaller ones. You can then use these smaller system parts to enable a greater number of users or applications to use your server. Virtualization also isolates programs on one machine from programs on other machines.
+
+This makes virtualization an integral part of DevOps. Dev and ops teams can work together and be in sync during the hardware virtualization process, and create a copy of the existing network. You need some basic knowledge of public, hybrid, and private clouds when doing network virtualization.
+
+Good communication skills
+
+DevOps engineers need to coordinate between ops and development teams. Therefore, communications capabilities are necessary for a DevOps engineer. Furthermore, DevOps engineers are usually a part of a larger team, so they need to constantly interact with their team members. Having  good communication skills can help you get into any job, not just that of a DevOps professional.
+
+Conclusion
+DevOps engineers usually work on a wide variety of tasks with a wide range of tools and technologies. As a DevOps engineer, you have to understand the bigger picture and be able to investigate issues efficiently. This is challenging, and often frustrating. However, it can also be satisfying, when you help others develop software more easily. DevOps is for people who love to learn and tackle complicated issues, and people who are more interested in the process than in the product.
